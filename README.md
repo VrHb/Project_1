@@ -1,2 +1,2 @@
-# Progect_1
+# Project_1
 Testing
